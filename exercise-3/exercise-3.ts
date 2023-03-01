@@ -3,7 +3,7 @@
  */
 
 function getPopulation(): any {
-    return 69_950_850;
+  return 69_950_850;
 }
 
 // Add a type assertion after the call to `getPopulation()`.
